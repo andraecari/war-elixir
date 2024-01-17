@@ -5,8 +5,9 @@ I built a version of the classic card game "War" using Elixir. The game follows 
 
 I used ExUnit for testing to make sure everything worked smoothly. It's a fun project that showcases the simplicity and effectiveness of Elixir for creating reliable applications.
 
-__
+<br>
 
+___
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
