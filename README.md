@@ -3,7 +3,7 @@
 
 I built a version of the classic card game "War" using Elixir. The game follows the standard rules, with two players competing to win each other's cards. 
 
-I used ExUnit for testing to make sure everything worked smoothly. It's a fun project that showcases the simplicity and effectiveness of Elixir for creating reliable applications.
+I used ```ExUnit``` for testing to make sure everything worked smoothly. It's a fun project that showcases the simplicity and effectiveness of Elixir for creating reliable applications.
 
 <br>
 
